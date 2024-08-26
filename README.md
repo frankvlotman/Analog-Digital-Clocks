@@ -1,7 +1,7 @@
 # Analog-Digital-Clocks
 
 Analog Clock Application:
-
+-------------------------
 Displays an analog clock with a ticking hour, minute, and second hand.
 
 Features a minimalistic design with a light grey clock face and bold hour markers.
@@ -12,7 +12,7 @@ Use of a blank image ICO function to set a custom, transparent window icon.
 
 
 Digital Clock Application:
-
+--------------------------
 Displays a digital clock with the current time in an 'HH:MM AM/PM' format.
 
 Features customizable fonts, colors, & background for a clear and bold time display.
